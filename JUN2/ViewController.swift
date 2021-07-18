@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var leaderBoardtable:UITableView!
     @IBOutlet weak var mainView:UIView!
 
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
